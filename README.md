@@ -1,4 +1,16 @@
+### 🚀 What I’m working on  
+- Learning **JavaScript** and **PHP**  
+- Exploring **full-stack development**  
+- Building and improving projects  
 
+### ⚡ Interests & Skills  
+- Web development (**HTML, CSS, JavaScript, PHP**)  
+- Problem-solving and efficient coding  
+- Civil engineering  
+
+### 📫 Get in touch  
+- Open to collaboration and learning from others  
+- Check out my projects and feel free to give feedback  
  I'm Ihezuo Divine Chikezie  
 
 Welcome to my GitHub! I'm a full-stack web developer passionate about building functional and user-friendly applications. I work with HTML, CSS, JavaScript, and PHP, and I'm constantly learning new technologies to improve my skills.  
