@@ -1,4 +1,3 @@
-# My-portfolio-
 
  I'm Ihezuo Divine Chikezie  
 
